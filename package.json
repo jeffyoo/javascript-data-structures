@@ -1,0 +1,23 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "This repo is great for practicing Computer Science fundamentals in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obber/javascript-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obber/javascript-data-structures/issues"
+  },
+  "homepage": "https://github.com/obber/javascript-data-structures#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
